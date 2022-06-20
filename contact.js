@@ -1,5 +1,5 @@
 function contact() {
-    var script_url = "https://script.google.com/macros/s/AKfycbyJMm8BnlKelwBjiKE9-JLu_2aRrEUeQb2XZMv_5Ah3UE_G6NlHGcUOyrZrds9K2qzn/exec";
+    var script_url = "https://script.google.com/macros/s/ChelceyAnn_Smith/exec";
     //get data from form
     var name = $("#name").val();
     var email = $("#email").val();
@@ -14,7 +14,6 @@ function contact() {
         dataType: "jsonp"
     });
 }
-
 function thanks() {
     //confirmation
     alert("Thank you, I will get back to you soon:)");
