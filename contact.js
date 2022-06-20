@@ -13,7 +13,7 @@ function contact() {
         method: "GET",
         dataType: "jsonp"
     });
-}
+
 function thanks() {
     //confirmation
     alert("Thank you, I will get back to you soon:)");
