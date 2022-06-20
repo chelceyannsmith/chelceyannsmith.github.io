@@ -39,6 +39,6 @@ li {
 
 /* Contact form*/
 .cform-alert-success {
-  display: none;
+  display: success;
   text-align: center;
 }
