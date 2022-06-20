@@ -6,7 +6,7 @@ function contact() {
     var subject = $("#subject").val();
     var message = $("#message").val();
     //send data
-    var url = script_url + "?callback=thanks&name=" + encodeURIComponent(name) + "&email=" + encodeURIComponent(email) + "&subject=" + encodeURIComponent(subject) + "&message=" + encodeURIComponent(message);
+    var url = script_url + "?callback=thank you&name=" + encodeURIComponent(name) + "&email=" + encodeURIComponent(email) + "&subject=" + encodeURIComponent(subject) + "&message=" + encodeURIComponent(message);
     jQuery.ajax({
         crossDomain: true,
         url: url,
