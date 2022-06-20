@@ -1,0 +1,44 @@
+body {
+  /* background-color: lightpink; */
+  background-color: #f1b6ea;
+  background-image: linear-gradient;
+}
+
+h1 {
+  color: rgb(255, 47, 227);
+  text-align: center;
+}
+
+p {
+  font-family: ;
+  font-size: 20px;
+  color: #E0E0E0;
+  text-align: center;
+}
+
+ul {
+  margin-left: 23rem;
+  color: #e0e0e0;
+}
+
+li {
+  margin-top: 2rem;
+}
+
+.custom-h1 {
+  font-size: 60px;
+}
+
+.center {
+  text-align: center;
+}
+
+.header {
+  margin-top: 5%;
+}
+
+/* Contact form*/
+.cform-alert-success {
+  display: none;
+  text-align: center;
+}
