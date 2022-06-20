@@ -17,5 +17,5 @@ function contact() {
 
 function thanks() {
     //confirmation
-    alert("Thanks, I'll get back to you soon.");
+    alert("Thank you, I will get back to you soon:)");
 }
